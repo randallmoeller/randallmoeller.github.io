@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>&lt;strong&gt;Welcome to the New Frontier&lt;/strong&gt;</description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>Why You Should Hit That Subscribe Button (to the Upper Right)</title>
+        
+          <description>&lt;p&gt;My Substack will be awesome.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 07 May 2020 18:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/welcome</link>
+        <guid isPermaLink="true">http://localhost:4000/welcome</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Try My Podcast, &quot;Blocks of Wisdom&quot;</title>
+        
+          <description>My podcast will be great.</description>
+        
+        <pubDate>Thu, 07 May 2020 17:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/podcast</link>
+        <guid isPermaLink="true">http://localhost:4000/podcast</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>This Is Where to Get Cool Stuff</title>
+        
+          <description>OK, I haven't made anything yet, but when I do, it will go here.</description>
+        
+        <pubDate>Thu, 07 May 2020 16:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/store</link>
+        <guid isPermaLink="true">http://localhost:4000/store</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>I.T.P. (Imaginary Theme Park)</title>
+        
+          <description>Here goes my imaginary theme park!</description>
+        
+        <pubDate>Thu, 07 May 2020 15:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/itp</link>
+        <guid isPermaLink="true">http://localhost:4000/itp</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Taiwan Culture Test</title>
+        
+          <description>&lt;p&gt;At my friend Miaca’s Kuantum Cafe – a lovely place in Taipei that’s since closed – we used to have a book club.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 06 May 2020 18:18:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/taiwan-culture-test</link>
+        <guid isPermaLink="true">http://localhost:4000/taiwan-culture-test</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>The Importance of Sucking</title>
+        
+          <description>&lt;p&gt;I may know a little about this&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 06 May 2020 18:18:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/sucking</link>
+        <guid isPermaLink="true">http://localhost:4000/sucking</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Salsa in Taipei</title>
+        
+          <description>Lorem salsam boogie woogie</description>
+        
+        <pubDate>Wed, 06 May 2020 18:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/salsa</link>
+        <guid isPermaLink="true">http://localhost:4000/salsa</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
